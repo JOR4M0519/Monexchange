@@ -12,7 +12,7 @@ El proyecto proporciona funcionalidades para convertir monedas, gestionar tasas 
 
 ## Requisitos del Sistema
 
-- **Java**: Versión 11 o superior
+- **Java**: Versión 17 o superior
 - **Maven**: Versión 3.6.3 o superior
 
 ## Estructura del Proyecto
@@ -61,7 +61,3 @@ Utiliza los métodos expuestos en el controlador `RateExchangeMoney.java` para r
 
 ### Operaciones
 Gestiona las operaciones de intercambio utilizando las clases en `Operation.java`.
-
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
