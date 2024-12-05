@@ -45,7 +45,7 @@ Monexchange/
    git clone https://github.com/usuario/Monexchange.git
    ```
 2. **Construir el proyecto**:
-   Navega al directorio raíz del proyecto y ejecuta:
+   Navegar al directorio raíz del proyecto y ejecutar:
    ```bash
    mvn clean install
    ```
