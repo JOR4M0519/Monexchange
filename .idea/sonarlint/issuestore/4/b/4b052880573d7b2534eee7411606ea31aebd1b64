@@ -1,0 +1,8 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‚ôâ8÷–¹¹2J$af029e6d-94da-4b12-ab5b-1732e4867aaf
+“	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì«‰â8‘÷–¹¹2J$0531a317-2ffa-4f58-9228-cf03631154be
+“	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì«‰â8‘÷–¹¹2J$24e1b67a-48b7-475e-ad4d-dcda0963c81b
+¯
+java:S4165*"gRemove this useless assignment; "entryList" already holds the assigned value along all execution paths.(¦›¡ ùÿÿÿÿ8¤Öô½¹2J$c2b36aa1-e1a7-43b8-8917-b61c1e866d4a
+w
+java:S1656*"/Remove or correct this useless self-assignment.(¦›¡ ùÿÿÿÿ8›÷–¹¹2J$2e0d5fb1-02fb-4e57-9d88-e6a1a57e1708

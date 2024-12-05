@@ -1,0 +1,16 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ˆöğÿÿÿÿÿ8´»à¨¹2J$12d72850-3dcd-49d6-8d50-d8ba6160992a
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ˆöğÿÿÿÿÿ8µ»à¨¹2J$cede2edb-51e0-4c13-bdca-19617813acf5
+˜	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¼¸¿úÿÿÿÿ8µ»à¨¹2J$67cdd3f9-4680-4642-89e6-ee5a4a9b968d
+˜	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ğĞªüÿÿÿÿ8µ»à¨¹2J$2043b513-3859-42ac-8435-c848769b7fab
+”	java:S116"RRename this field "url_str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×•8Å»à¨¹2J$584d4c22-4c76-45eb-9ed4-524976d7f5d6
+›	java:S116"YRename this field "codeISO_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¬¨Ç8Æ»à¨¹2J$37eeafae-63db-405e-8d94-d527f4c95206
+¡	java:S116"ZRename this field "codeISO_convert" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÌ‹ÿÿÿÿÿ8Æ»à¨¹2J$3262ca0d-a033-446c-b642-03c772efce97
+	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•´²È8Î»à¨¹2J$8d3fecf4-0245-4a88-bc1c-73268764d743
+•	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¼¸¿úÿÿÿÿ8Î»à¨¹2J$c54ae3fe-9747-4dfd-8576-a068261997ac
+‚
+java:S1854\":Remove this useless assignment to local variable "result".(ŒÔ¸ıÿÿÿÿÿ8Ï»à¨¹2J$4a40f55d-3c10-4c9b-90f7-d48332134bc0
+s
+java:S1481\"+Remove this unused "result" local variable.(ŒÔ¸ıÿÿÿÿÿ8Ğ»à¨¹2J$f24b4aaa-fd97-45b0-bcaa-b1445bddb017
+	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡àÙi8Ğ»à¨¹2J$00fd611e-2740-4275-b821-360da08903b8
+•	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ğĞªüÿÿÿÿ8Ñ»à¨¹2J$7edd0bc0-76a6-4dc8-9dee-668409ada2f7

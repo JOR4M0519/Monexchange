@@ -1,0 +1,4 @@
+
+”	java:S116"RRename this field "url_str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÂ‡£8ùàÿ¥¹2J$6ac1a693-c645-4c0e-9065-03f186f8cbc3
+r	java:S1061"+Replace this use of System.out by a logger.(Ó—îåÿÿÿÿÿ8€áÿ¥¹2J$77a00763-f324-489e-ac20-0ec46683551f
+m	java:S106:"+Replace this use of System.out by a logger.(ƒ†Ã8áÿ¥¹2J$22a317ed-b68e-4f84-a242-52fea2eaa03c
